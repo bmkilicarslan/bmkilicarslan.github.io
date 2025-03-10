@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Articles
-Kilicarslan, B. M., Longyang, Q., Obi, V., Cohen, S., Meselhe, E. and Temimi, M. (2025) Improving the Fidelity and Performance of a Conceptual Flood Inundation Mapping Approach Using a Machine Learning-Based Surrogate Model. Available at SSRN: [ttps://ssrn.com/abstract=5167195] or [http://dx.doi.org/10.2139/ssrn.5167195] (Under Review in Environmental Modelling and Software)
+Kilicarslan, B. M., Longyang, Q., Obi, V., Cohen, S., Meselhe, E. and Temimi, M. (2025) Improving the Fidelity and Performance of a Conceptual Flood Inundation Mapping Approach Using a Machine Learning-Based Surrogate Model. Available at SSRN: [https://ssrn.com/abstract=5167195](https://ssrn.com/abstract=5167195) or [http://dx.doi.org/10.2139/ssrn.5167195](http://dx.doi.org/10.2139/ssrn.5167195) (Under Review in Environmental Modelling and Software)
 
 Kilicarslan, B. M., Temimi, M., Abdelkader M., MacNeil, A., & Miano, P., “Integration of River Ice Information in Hydrodynamic Models for Enhanced and Continuous Streamflow Forecast” (Under Review in Water Resource Management)
 
@@ -16,7 +16,7 @@ Kilicarslan, B. M., Yucel, I., Pilatin, H., Duzenli, E., & Tugrul, M. (2021) “
 
 ## Conference Proceedings
 Kilicarslan, B., Abdelkader, M., & Temimi, M. (2024) “An Automated Framework to Simulate Streamflow in the Presence of River Ice Using Remote Sensing Observations and Coupled NOAA NWM and HEC-RAS Models” AGU Annual Meeting, 2024
-[https://agu24.ipostersessions.com/Default.aspx?s=9C-ED-19-F2-F2-54-03-00-3C-E4-9F-66-3F-C8-7A-EA]
+[https://agu24.ipostersessions.com/Default.aspx?s=9C-ED-19-F2-F2-54-03-00-3C-E4-9F-66-3F-C8-7A-EA](https://agu24.ipostersessions.com/Default.aspx?s=9C-ED-19-F2-F2-54-03-00-3C-E4-9F-66-3F-C8-7A-EA)
 
 Kilicarslan, B., Longyang, Q., Obi, V., Cohen, S., & Meselhe, E. A. (2023) “Improving the Fidelity and Performance of NOAA Flood Inundation Mapping Framework Using a Machine Learning-Based Surrogate Model” AGU Annual Meeting, 2023 [https://agu23.ipostersessions.com/default.aspx?s=98-D5-63-6D-9D-CA-D4-81-9D-08-68-E7-28-1E-CB-89](https://agu23.ipostersessions.com/default.aspx?s=98-D5-63-6D-9D-CA-D4-81-9D-08-68-E7-28-1E-CB-89).
 
