@@ -7,8 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the Department of Civil, Environmental, and Ocean Engineering at Stevens Institute of Technology, specializing in hydrological and hydrodynamic modeling. 
+I am a Postdoctoral Associate in the Department of Civil and Urban Engineering at New York University.
 
-My research focuses on using physics-based models to analyze watershed-scale hydrological processes during ice- or storm-induced flood events in the northeastern United States. This includes conducting simulations for streamflow and flood inundation mapping, with a specific emphasis on developing decision support tools to assist stakeholders. As part of my work, I integrate [a multi-satellite river ice product](https://web.stevens.edu/ismart/land_products/rivericemapping.html) into the modeling process by adjusting hydraulic properties. Additionally, I am exploring the implementation of machine learning-based surrogate or emulator models to improve computational efficiency and reduce the time required for hydrodynamic modeling, particularly for flood inundation mapping applications.
+My research focuses on computational and statistical hydrosciences, with a special emphasis on flood inundation mapping, 
+surrogate modeling, and hydrological and hydrodynamic modeling to adress different issues in Northeastern US. 
+
+This includes conducting simulations for streamflow and flood inundation mapping, with a specific emphasis on developing 
+decision support tools to assist stakeholders. As part of my Ph.D. work, I have succesfully integrated 
+[a multi-satellite river ice product](https://web.stevens.edu/ismart/land_products/rivericemapping.html) into the modeling 
+process by adjusting hydraulic properties. Additionally, I have worked on the implementation of machine learning-based surrogate 
+or emulator models to improve computational efficiency and reduce the time required for hydrodynamic modeling, particularly for 
+flood inundation mapping applications.
+
+A key aspect of my posdoctoral work is understanding the patterns of upstream flooding triggered by 
+infrastructure failures, which is crucial for enhancing flood risk assessments, strengthening disaster preparedness, 
+and supporting informed decision-making at regional and national levels.
 
 Learn more about my [publications](https://bmkilicarslan.github.io/publications/).
